@@ -1,0 +1,14 @@
+# ignore private files
+*PRIVATE*
+
+# ignore .DS_Store file
+.DS_Store
+
+# ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# ignore pdf files
+*.pdf
